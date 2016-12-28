@@ -1,3 +1,9 @@
+body {
+	background: #ededed;
+	color: #3f4040;
+	font: normal 100% "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
+
 ul {
 	margin: 0;
 	padding: 0;
