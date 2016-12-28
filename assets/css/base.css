@@ -34,17 +34,3 @@ img {
 	max-width: 100%;
     height: auto;
 }
-
-.circle {
-	border-radius: 50%;
-}
-
-.clearfix:before,
-.clearfix:after, {
-	display: table;
-	content: " ";
-}
-
-.clearfix:after {
-	clear: both;
-}

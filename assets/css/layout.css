@@ -1,0 +1,27 @@
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.page {
+	width: 91.919191919%;
+	margin: 4.121212121%  4.040404%;
+}
+
+.main-header {
+	margin-bottom: 1.594202899%;
+}
+
+.circle {
+	border-radius: 50%;
+}
+
+.clearfix:before,
+.clearfix:after, {
+	display: table;
+	content: " ";
+}
+
+.clearfix:after {
+	clear: both;
+}
