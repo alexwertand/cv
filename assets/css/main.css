@@ -1,7 +1,21 @@
 @import "normalize.css";
+
 @import "font-awesome.css";
+
 @import "base.css";
 @import "layout.css";
 @import "module.css";
 @import "state.css";
 @import "changing_state.css";
+
+@font-face {
+  font-family: 'ProximaNova-Regular';
+  src: url('../font/ProximaNova-Regular/ProximaNova-Regular.eot'); /* IE9 Compat Modes */
+  src: url('../font/ProximaNova-Regular/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/ProximaNova-Regular/ProximaNova-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../font/ProximaNova-Regular/ProximaNova-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../font/ProximaNova-Regular/ProximaNova-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../font/ProximaNova-Regular/ProximaNova-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal;
+}
