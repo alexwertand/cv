@@ -1,0 +1,44 @@
+.my-foto {
+	width: 27.6923077%;
+	float: left;
+	margin-right: 3.296703297%;
+	background: white;
+}
+
+.my-foto img {
+	width: 90.476190476%;
+  	margin: 4.761904762%;
+}
+
+.contact-info {
+	width: 69.010989003%;
+	float: left;
+	text-align: center;
+}
+
+.contact-info hgroup {
+	margin-bottom: 4em;
+}
+
+h1 {
+	margin-bottom: 0.3em;
+}
+
+h1,
+h2 {
+	color: white;
+}
+
+.circle {
+	border-radius: 50%;
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}

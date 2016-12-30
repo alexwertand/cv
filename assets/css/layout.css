@@ -1,27 +1,36 @@
 .wrapper {
 	width: 90%;
 	margin: 0 auto;
+	padding-top: 4.121212121%;
+    background-image: -webkit-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    -webkit-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    -webkit-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    -webkit-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px);
+    background-image: -moz-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    -moz-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    -moz-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    -moz-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px);
+    background-image: -o-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    -o-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    -o-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    -o-radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px);
+    background-image: radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px),
+                    radial-gradient(rgba(225, 81, 91, 1) 7px, transparent 7px);
+  background-color: #e46265;
+  -webkit-background-size: 100px 100px;
+     -moz-background-size: 100px 100px;
+       -o-background-size: 100px 100px;
+          background-size: 100px 100px;
+  background-position: 0 0, 100px 0, 150px 50px, 150px 50px;
 }
 
 .page {
 	width: 91.919191919%;
-	margin: 4.121212121%  4.040404%;
+	margin: 0 auto;
 }
 
 .main-header {
-	margin-bottom: 1.594202899%;
-}
-
-.circle {
-	border-radius: 50%;
-}
-
-.clearfix:before,
-.clearfix:after, {
-	display: table;
-	content: " ";
-}
-
-.clearfix:after {
-	clear: both;
+	padding: 0.492914356% 0 1.694393099% 0.800985829%;
 }
