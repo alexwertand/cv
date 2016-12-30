@@ -13,20 +13,29 @@
 .contact-info {
 	width: 69.010989003%;
 	float: left;
-	text-align: center;
+	color: white;
 }
 
 .contact-info hgroup {
-	margin-bottom: 4em;
+	margin-bottom: 2.5em;
+	text-align: center;
 }
 
 h1 {
 	margin-bottom: 0.3em;
 }
 
-h1,
-h2 {
-	color: white;
+.contacts li {
+	display: inline-block;
+	width: 47%;
+}
+
+.contacts i:last-child {
+	font-size: 0.75em;
+}
+
+.contacts .fa-stack {
+	margin-right: 0.5em;
 }
 
 .circle {
