@@ -35,8 +35,10 @@
 	padding: 0.492914356% 0 1.694393099% 0.800985829%;
 }
 
-article {
-	
+.main-article {
+	width: 96.659340659%;
+	padding: 2.5em 1.909959072%;
+	background: white;
 }
 
 section {
