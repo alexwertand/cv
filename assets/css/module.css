@@ -39,10 +39,19 @@ h1 {
 }
 
 .chapter {
-	width: 100%;
 	margin-bottom: 3em;
-	padding: 3.707136237%;
+	padding: 5.00463392%;
 	border: 2px solid #9d9d9d;
+	font-size: 1em;
+}
+
+.chapter.about-info {
+	background: #3f3f3f;
+	color: white;
+}
+
+.say-hello {
+	font-size: 3em;
 }
 
 .chapter p {
